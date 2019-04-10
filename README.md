@@ -1,6 +1,6 @@
 # Real-time AttentionConvLSTM
 
-See https://raw.githubusercontent.com/GuangmingZhu/AttentionConvLSTM
+See https://github.com/GuangmingZhu/AttentionConvLSTM
 
 ## How to use
 Run fps_dem_attn_conv_lstm.py
